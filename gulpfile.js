@@ -69,6 +69,6 @@ gulp.task('default',
         'scripts',
         'sass',
         'bootstrap',
-        'fonts'
+        'fonts',
     )
 );
